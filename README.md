@@ -1,6 +1,6 @@
 # SaxoRooster - Dockerized Scratch Game 🎷🐔
 
-This repository contains the necessary files (Dockerfile, Caddyfile, and game assets) to build a Docker image that serves the "SaxoRooster" game. SaxoRooster is a simple game originally created with Scratch for the CS50x course.
+This repository contains the necessary files (Dockerfile, Caddyfile, and game assets) to build a Docker image that serves the "SaxoRooster" game. SaxoRooster is a simple game originally created with Scratch for Harvard's CS50x course. The Dockerization of this project was completed as an exercise for the "DevOps with Docker" course by the University of Helsinki, available on [mooc.fi](https://www.mooc.fi/en/).
 
 [![Docker Hub Image](https://img.shields.io/badge/Docker%20Hub-mischakaufmann%2Fsaxorooster--game-blue?logo=docker)](https://hub.docker.com/r/mischakaufmann/saxorooster-game)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
