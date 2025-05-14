@@ -14,7 +14,7 @@ The resulting Docker image is published on Docker Hub and can be easily run by a
 
 ## Files in This Repository
 
-- **`Dockerfile`**: Defines the steps to build the Docker image using `caddy:2-alpine` as a base, copying the `Caddyfile` for server configuration and the game assets.
+- **`Dockerfile`**: Defines the steps to build the Docker image using `caddy:2.10.0-alpine` as a base, copying the `Caddyfile` for server configuration and the game assets.
 - **`Caddyfile`**: A simple configuration for the Caddy web server to serve the static game files from `/srv` on port 80.
 - **`index.html`**: The main HTML file for the game.
 - **`script.js`**: The main JavaScript file for the game logic.
