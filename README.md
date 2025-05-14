@@ -66,7 +66,7 @@ For instructions on how to run the pre-built image directly from Docker Hub with
 
 ## Technologies Used
 
-- Original Game: [Scratch](https://scratch.mit.edu/)
+- Original Game: [Scratch](https://scratch.mit.edu/projects/1070411335)
 - Conversion to HTML/JS: [TurboWarp Packager](https://turbowarp.org/packager/)
 - Web Server: [Caddy](https://caddyserver.com/)
 - Containerization: [Docker](https://www.docker.com/)
